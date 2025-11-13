@@ -1,21 +1,13 @@
 [
     {
-        "batch_id": 856,
-        "telegram_id": -1003327738303,
+        "batch_id": 851,
+        "telegram_id": -1003364065571,
         "topics": [
-            {"topic_id": 2, "lesson_ids": [9248]},
-            {"topic_id": 3, "lesson_ids": [9249]},
-            {"topic_id": 4, "lesson_ids": [9250]}
+            {"topic_id": 7, "lesson_ids": [9393]},
+            {"topic_id": 6, "lesson_ids": [9394]},
+            {"topic_id": 5, "lesson_ids": [9404]}
+            {"topic_id": 4, "lesson_ids": [9405]}
+            {"topic_id": 3, "lesson_ids": [9543]}
+            {"topic_id": 2, "lesson_ids": [9643]}
         ]
     },
-    {
-        "batch_id": 888,
-        "telegram_id": -1003017998929,
-        "topics": []
-    },
-    {
-        "batch_id": 885,
-        "telegram_id": -5096550292,
-        "topics": []
-    }
-]
