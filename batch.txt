@@ -1,0 +1,21 @@
+[
+    {
+        "batch_id": 856,
+        "telegram_id": -1003327738303,
+        "topics": [
+            {"topic_id": 2, "lesson_ids": [9248]},
+            {"topic_id": 3, "lesson_ids": [9249]},
+            {"topic_id": 4, "lesson_ids": [9250]}
+        ]
+    },
+    {
+        "batch_id": 888,
+        "telegram_id": -1003017998929,
+        "topics": []
+    },
+    {
+        "batch_id": 885,
+        "telegram_id": -5096550292,
+        "topics": []
+    }
+]
