@@ -5,9 +5,20 @@
         "topics": [
             {"topic_id": 7, "lesson_ids": [9393]},
             {"topic_id": 6, "lesson_ids": [9394]},
-            {"topic_id": 5, "lesson_ids": [9404]}
-            {"topic_id": 4, "lesson_ids": [9405]}
-            {"topic_id": 3, "lesson_ids": [9543]}
+            {"topic_id": 5, "lesson_ids": [9404]},
+            {"topic_id": 4, "lesson_ids": [9405]},
+            {"topic_id": 3, "lesson_ids": [9543]},
             {"topic_id": 2, "lesson_ids": [9643]}
         ]
     },
+{
+        "batch_id": 851,
+        "telegram_id": -1003180595452,
+        "topics": []
+    },
+    {
+        "batch_id": 851,
+        "telegram_id": -3444231763,
+        "topics": []
+    }
+]
